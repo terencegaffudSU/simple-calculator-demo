@@ -1,0 +1,10 @@
+.display {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: aquamarine;
+    font-size: 40px;
+    text-align: center;
+    margin: 10px auto;
+    width: 50%;
+    box-sizing: border-box;
+}
